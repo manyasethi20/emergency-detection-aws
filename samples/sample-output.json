@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Fire",
+    "Confidence": 98.12
+  },
+  {
+    "Name": "Smoke",
+    "Confidence": 92.45
+  },
+  {
+    "Name": "Heat",
+    "Confidence": 89.34
+  }
+]

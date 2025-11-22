@@ -47,5 +47,5 @@ emergency-detection-aws/
 │ └── sample-output.json
 │
 └── README.md
-## Folder Structure
+
 
